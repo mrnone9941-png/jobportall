@@ -1,5 +1,5 @@
 ﻿# jobportall
-# Urnext
+# UrNext
 
 A full-stack job portal built with the MERN stack that helps employers post jobs and job seekers discover and apply for opportunities.
 
