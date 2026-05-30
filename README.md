@@ -16,7 +16,6 @@ A full-stack job portal built with the MERN stack that helps employers post jobs
 * Node.js
 * Express.js
 * MongoDB
-Create a .env file and add your MongoDB connection string and other required environment variables.
 
 Run the application:
 ## About
